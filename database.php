@@ -1,7 +1,7 @@
 <?php
 class Database {
   private $host = "127.0.0.1";
-  private $db_name = "api_db";
+  private $db_name = "mitologia_griega";
   private $username = "root";
   private $password = "12345678";
   public $conn;
